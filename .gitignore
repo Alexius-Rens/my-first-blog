@@ -2,7 +2,6 @@
 *~
 __pycache__
 alex
-requirements.txt
 db.sqlite3
 /static
 .DS_Store
